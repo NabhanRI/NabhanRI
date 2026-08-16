@@ -64,7 +64,7 @@ Information Systems graduate & Hacktiv8 Fullstack Bootcamp grad, focused on buil
 
 ### 📊 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nabhanri&show_icons=true&theme=radical&hide_border=true" alt="nabhanri stats" height="165"/> <img src="https://streak-stats.demolab.com/?user=nabhanri&theme=radical&hide_border=true" alt="nabhanri streak" height="165"/> </p>
+<p align="center"> <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nabhanri&show_icons=true&theme=radical&hide_border=true" alt="nabhanri stats" height="165"/> <img src="https://github-readme-streak-stats-eight.vercel.app/?user=nabhanri&theme=radical&hide_border=true" alt="nabhanri streak" height="165"/> </p>
 
 ---
 
