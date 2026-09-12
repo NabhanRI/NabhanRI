@@ -1,17 +1,16 @@
-<h1 align="center">Hi, I'm Nabhan 👋</h1>
-<h3 align="center">Fullstack JavaScript Developer</h3>
+# Nabhan
+**Full-Stack Software Engineer** 
 
-<p align="center">
-  Information Systems graduate & Hacktiv8 Fullstack Bootcamp alumnus, focused on building scalable, end-to-end web applications with React and Node.js.
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/mnabhanri">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<p align="left">
+  <a href="https://nabhanri.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-nabhanri.dev-000000?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ea44f?style=flat-square" alt="Open to Work" />
-  <img src="https://komarev.com/ghpvc/?username=nabhanri&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <a href="https://linkedin.com/in/mnabhanri" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
+
+Software Engineer with a background in Information Systems, specializing in end-to-end web application development. Experienced in building responsive user interfaces, scalable REST APIs, and relational/non-relational database architectures across the JavaScript and TypeScript ecosystems.
 
 ---
 
@@ -19,7 +18,6 @@
 
 - 💻 **Core Focus:** Fullstack Web Development
 - 🌱 **Currently learning:** AI Agents, Next.js, React Native, Golang, CI/CD, Docker
-- 📫 **Reach me at:** [LinkedIn](https://linkedin.com/in/mnabhanri)
 
 ---
 
