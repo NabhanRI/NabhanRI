@@ -1,16 +1,11 @@
-# Nabhan
-**Full-Stack Software Engineer** 
-
-<p align="left">
-  <a href="https://nabhanri.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-nabhanri.dev-000000?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/mnabhanri" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+<h1 align="center">Hi there, I'm Nabhan 👋</h1>
+ 
+<p align="center">
+  Fullstack JavaScript Developer building end-to-end web
 </p>
-
-Software Engineer with a background in Information Systems, specializing in end-to-end web application development. Experienced in building responsive user interfaces, scalable REST APIs, and relational/non-relational database architectures across the JavaScript and TypeScript ecosystems.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NabhanRI&style=flat-square&color=blueviolet" alt="Profile views" />
+</p>
 
 ---
 
